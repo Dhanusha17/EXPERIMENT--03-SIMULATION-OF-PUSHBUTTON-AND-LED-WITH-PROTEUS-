@@ -15,9 +15,6 @@ interfaces Datasheet - production data Features
 25 DMIPS/MHz (Dhrystone 2.
 1), and DSP instructions
 • Memories – Up to 256 Kbytes of Flash memory – Up to 64 Kbytes of SRAM
- 
- 
-
 ## Procedure:
  1. click on STM 32 CUBE IDE, the following screen will appear 
  ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
@@ -88,5 +85,3 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
-
-
